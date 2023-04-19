@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-19T08:09:15 ART" name="Surefire suite" finished-at="2023-04-19T08:10:01 ART" duration-ms="46897">
+    <groups>
+    </groups>
+    <test started-at="2023-04-19T08:09:15 ART" name="Surefire test" finished-at="2023-04-19T08:10:01 ART" duration-ms="46897">
+      <class name="Tests.ui.addToCart.TestAddToCart">
+        <test-method signature="addToCartLaptop()" started-at="2023-04-19T08:09:19 ART" name="addToCartLaptop" finished-at="2023-04-19T08:09:42 ART" duration-ms="23238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCartLaptop -->
+      </class> <!-- Tests.ui.addToCart.TestAddToCart -->
+      <class name="Tests.api.swagger.apiTest">
+        <test-method signature="test1postPet()" started-at="2023-04-19T08:09:15 ART" name="test1postPet" finished-at="2023-04-19T08:09:17 ART" duration-ms="2432" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1postPet -->
+        <test-method signature="test2getPet()" started-at="2023-04-19T08:09:15 ART" name="test2getPet" finished-at="2023-04-19T08:09:18 ART" duration-ms="3435" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2getPet -->
+        <test-method signature="test3putPet()" started-at="2023-04-19T08:09:15 ART" name="test3putPet" finished-at="2023-04-19T08:09:19 ART" duration-ms="4415" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3putPet -->
+      </class> <!-- Tests.api.swagger.apiTest -->
+      <class name="Tests.ui.singUpLogInOut.TestSingUpLogInOut">
+        <test-method signature="login()" started-at="2023-04-19T08:09:42 ART" name="login" finished-at="2023-04-19T08:10:01 ART" duration-ms="19184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="registerAnUser()" started-at="2023-04-19T08:09:42 ART" name="registerAnUser" finished-at="2023-04-19T08:09:49 ART" duration-ms="6680" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerAnUser -->
+      </class> <!-- Tests.ui.singUpLogInOut.TestSingUpLogInOut -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

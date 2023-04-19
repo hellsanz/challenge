@@ -1,0 +1,9 @@
+helpers\AlertManager.class
+POM\home\HomePage.class
+helpers\AccountGenerator.class
+POM\BasePage.class
+helpers\ScreenShot.class
+helpers\HoverManager$FigureCaption.class
+POM\product\ProductPage.class
+helpers\HoverManager.class
+helpers\Timer.class

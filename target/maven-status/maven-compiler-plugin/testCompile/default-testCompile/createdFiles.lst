@@ -1,0 +1,10 @@
+stepdefinitions\TestAddToCart.class
+Tests\api\swagger\apiTest.class
+utils\apiControl.class
+utils\container.class
+stepdefinitions\TestLogInOut.class
+stepdefinitions\TestPostGetPutPet.class
+stepdefinitions\TestSingUp.class
+Tests\ui\BaseTest.class
+utils\UITest.class
+features\runner\RunCucumberTest.class
